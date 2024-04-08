@@ -40,15 +40,14 @@ Users can enter their programming-related thoughts to the platform.
 Install: Users can install the web app version into their device will all the cached data entered 
 
 ## Technologies Used
-Backend:
+Backend & Frontend
+
 - GraphQL
 - MongoDB
 - Mongoose
 - Node.js
 - Express.js
 
-
-Frontend:
 - React Router
 - React.js
 - Apollo Client
